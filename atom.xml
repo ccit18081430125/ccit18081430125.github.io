@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-04-18T09:19:48.763Z</updated>
+  <updated>2020-04-19T04:04:41.515Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>hexo搭建(一)</title>
+    <link href="http://yoursite.com/2020/04/19/hexo%E6%90%AD%E5%BB%BA(%E4%B8%80)/"/>
+    <id>http://yoursite.com/2020/04/19/hexo%E6%90%AD%E5%BB%BA(%E4%B8%80)/</id>
+    <published>2020-04-19T04:03:58.429Z</published>
+    <updated>2020-04-19T04:04:41.515Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>写博客首先要先下载Node.js和Git ❤<br>安装node.js❤<br>    1.点击安装node.js下载，根据自身的电脑来选择是windows还是苹果或是其他。在这过程中，不要迟疑，不要怕，下不成功，从头再来！安装完成后在cmd窗口中输入node -v指令，若在Git Base Here里输入前面会$符号。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
   
   <entry>
     <title>吐槽篇！哈哈</title>
@@ -46,28 +68,6 @@
     <updated>2020-04-18T08:49:49.797Z</updated>
     
     <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>输入图片</p><p><img src="/images/3.JPG" alt=""></p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla
-      
-    
-    </summary>
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>filename</title>
-    <link href="http://yoursite.com/2020/04/13/hexo%E6%90%AD%E5%BB%BA(%E4%B8%80)/"/>
-    <id>http://yoursite.com/2020/04/13/hexo%E6%90%AD%E5%BB%BA(%E4%B8%80)/</id>
-    <published>2020-04-13T06:22:16.000Z</published>
-    <updated>2020-04-18T10:26:06.361Z</updated>
-    
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>写博客首先要先下载Node.js和Git ❤<br>安装node.js❤<br>    1.点击安装node.js下载，根据自身的电脑来选择是windows还是苹果或是其他。在这过程中，不要迟疑，不要怕，下不成功，从头再来！安装完成后在cmd窗口中输入node -v指令，若在Git Base Here里输入前面会$符号。</p>]]></content>
     
     <summary type="html">
     
