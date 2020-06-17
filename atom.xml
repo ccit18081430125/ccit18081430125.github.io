@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-06-17T04:33:10.732Z</updated>
+  <updated>2020-06-17T04:40:34.172Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://yoursite.com/2020/06/17/%E8%AE%BE%E5%A4%87%E8%BF%9E%E6%8E%A5/"/>
     <id>http://yoursite.com/2020/06/17/%E8%AE%BE%E5%A4%87%E8%BF%9E%E6%8E%A5/</id>
     <published>2020-06-17T04:12:21.301Z</published>
-    <updated>2020-06-17T04:33:10.732Z</updated>
+    <updated>2020-06-17T04:40:34.172Z</updated>
     
     <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h2 id="一、前提"><a href="#一、前提" class="headerlink" title="一、前提"></a>一、前提</h2><p> ☀Chrome的版本在70.0.3526.0以上</p><p> ☀windows 10的版本在1703以上</p><h2 id="二、设置开发板"><a href="#二、设置开发板" class="headerlink" title="二、设置开发板"></a>二、设置开发板</h2><p>☀ 将.hex文件下载到开发板中，开发板上会显示Hi！,当蓝牙连接成功后会显示字母C，断开连接会显示字母D。</p><h2 id="三、连接设备的代码如下图所示："><a href="#三、连接设备的代码如下图所示：" class="headerlink" title="三、连接设备的代码如下图所示："></a>三、连接设备的代码如下图所示：</h2><p><img src="/images/21.jpg" alt=""></p><p><img src="/images/22.jpg" alt=""></p><p><img src="/images/23.jpg" alt=""></p><p><img src="/images/24.jpg" alt=""></p>]]></content>
     
